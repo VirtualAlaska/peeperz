@@ -1,0 +1,175 @@
+----------------------
+Trait Type: Background
+----------------------
+Bazaar: Count - 799, Percentage - 11.47%
+Scorpion: Count - 790, Percentage - 11.34%
+Waterloo: Count - 785, Percentage - 11.26%
+Mamba: Count - 779, Percentage - 11.18%
+Gurkha: Count - 777, Percentage - 11.15%
+Regent Gray: Count - 755, Percentage - 10.83%
+Oxley: Count - 738, Percentage - 10.59%
+Gray: Count - 730, Percentage - 10.47%
+Pale Oyster: Count - 727, Percentage - 10.43%
+Matrix: Count - 70, Percentage - 1.00%
+None: Count - 18, Percentage - 0.26%
+Ethscriptions: Count - 1, Percentage - 0.01%
+
+
+----------------
+Trait Type: Skin
+----------------
+AHHH!: Count - 341, Percentage - 4.89%
+Hmmm: Count - 310, Percentage - 4.45%
+WAAA: Count - 309, Percentage - 4.43%
+Hemm: Count - 301, Percentage - 4.32%
+Ayyy LMAO!: Count - 300, Percentage - 4.30%
+Hey!: Count - 288, Percentage - 4.13%
+Sniff Ahhh: Count - 288, Percentage - 4.13%
+Nakamoto: Count - 285, Percentage - 4.09%
+Nyeehee!: Count - 284, Percentage - 4.08%
+Heeeheee: Count - 281, Percentage - 4.03%
+Hrmph: Count - 278, Percentage - 3.99%
+HAA!: Count - 278, Percentage - 3.99%
+Sniff Sniff: Count - 274, Percentage - 3.93%
+Hrmm: Count - 273, Percentage - 3.92%
+Eeuuggh!: Count - 270, Percentage - 3.87%
+Dapper: Count - 269, Percentage - 3.86%
+Heh Heh: Count - 268, Percentage - 3.85%
+Snifff: Count - 268, Percentage - 3.85%
+Heyyy!: Count - 266, Percentage - 3.82%
+Ergh: Count - 263, Percentage - 3.77%
+OOO!: Count - 256, Percentage - 3.67%
+Ehhh: Count - 254, Percentage - 3.64%
+Heh Heh Heh: Count - 252, Percentage - 3.62%
+Ciggy: Count - 215, Percentage - 3.09%
+Cigar: Count - 201, Percentage - 2.88%
+Goblin: Count - 69, Percentage - 0.99%
+None: Count - 18, Percentage - 0.26%
+Pepekachu: Count - 10, Percentage - 0.14%
+
+
+--------------------
+Trait Type: Clothing
+--------------------
+None: Count - 1523, Percentage - 21.85%
+Blue Tee: Count - 1023, Percentage - 14.68%
+Black Tee: Count - 802, Percentage - 11.51%
+Fast Food: Count - 619, Percentage - 8.88%
+Blue Suit: Count - 593, Percentage - 8.51%
+Red Blankie: Count - 573, Percentage - 8.22%
+Black Suit: Count - 562, Percentage - 8.06%
+Vampire: Count - 297, Percentage - 4.26%
+Boner: Count - 272, Percentage - 3.90%
+Pumpkin: Count - 208, Percentage - 2.98%
+Bumble Bee: Count - 197, Percentage - 2.83%
+Bow Tie: Count - 193, Percentage - 2.77%
+Designer Robe: Count - 107, Percentage - 1.54%
+
+
+------------------
+Trait Type: Hoodie
+------------------
+None: Count - 6421, Percentage - 92.14%
+White: Count - 86, Percentage - 1.23%
+Fashion: Count - 84, Percentage - 1.21%
+Cloak: Count - 83, Percentage - 1.19%
+Black: Count - 78, Percentage - 1.12%
+Blue: Count - 77, Percentage - 1.10%
+Blankie: Count - 74, Percentage - 1.06%
+Red: Count - 65, Percentage - 0.93%
+Pepekachu Cloak: Count - 1, Percentage - 0.01%
+
+
+---------------
+Trait Type: Hat
+---------------
+None: Count - 1044, Percentage - 14.98%
+Red Cap: Count - 259, Percentage - 3.72%
+Halo: Count - 257, Percentage - 3.69%
+Sombrero: Count - 256, Percentage - 3.67%
+Smooth Hair: Count - 251, Percentage - 3.60%
+Pumpkin: Count - 248, Percentage - 3.56%
+Black Fast Food Cap: Count - 248, Percentage - 3.56%
+Wizard: Count - 245, Percentage - 3.52%
+Fedora: Count - 245, Percentage - 3.52%
+Beanie: Count - 243, Percentage - 3.49%
+Red Fast Food Cap: Count - 242, Percentage - 3.47%
+Headphones: Count - 241, Percentage - 3.46%
+Pimp: Count - 239, Percentage - 3.43%
+Cowboy Hat: Count - 239, Percentage - 3.43%
+Blue Hat: Count - 238, Percentage - 3.42%
+Wendy: Count - 237, Percentage - 3.40%
+Rick: Count - 230, Percentage - 3.30%
+Sleep Mask: Count - 227, Percentage - 3.26%
+Exposed Brain: Count - 227, Percentage - 3.26%
+Party Hat: Count - 226, Percentage - 3.24%
+Dark Wizard: Count - 223, Percentage - 3.20%
+Cozy Bear: Count - 221, Percentage - 3.17%
+Bandana: Count - 216, Percentage - 3.10%
+Mafia: Count - 213, Percentage - 3.06%
+Clown Hair: Count - 212, Percentage - 3.04%
+Bullish: Count - 197, Percentage - 2.83%
+Trump: Count - 45, Percentage - 0.65%
+
+
+----------------
+Trait Type: Item
+----------------
+None: Count - 1681, Percentage - 24.12%
+PePeMeal: Count - 379, Percentage - 5.44%
+Teddy: Count - 365, Percentage - 5.24%
+Bong: Count - 358, Percentage - 5.14%
+Samba: Count - 350, Percentage - 5.02%
+Gun: Count - 349, Percentage - 5.01%
+Heart: Count - 338, Percentage - 4.85%
+Scythe: Count - 331, Percentage - 4.75%
+Choccy: Count - 327, Percentage - 4.69%
+Whyyy: Count - 321, Percentage - 4.61%
+Cross: Count - 320, Percentage - 4.59%
+Guns A'Blazin: Count - 319, Percentage - 4.58%
+Champagne: Count - 319, Percentage - 4.58%
+Book: Count - 309, Percentage - 4.43%
+Thumbs Up: Count - 306, Percentage - 4.39%
+Juice: Count - 291, Percentage - 4.18%
+Joint: Count - 288, Percentage - 4.13%
+Skateboard: Count - 18, Percentage - 0.26%
+
+
+-------------------
+Trait Type: Eyewear
+-------------------
+None: Count - 6370, Percentage - 91.40%
+Reading Glasses: Count - 304, Percentage - 4.36%
+Shades: Count - 294, Percentage - 4.22%
+Matrix: Count - 1, Percentage - 0.01%
+
+
+---------------------
+Trait Type: Face Mask
+---------------------
+None: Count - 6869, Percentage - 98.57%
+Masked: Count - 100, Percentage - 1.43%
+
+
+------------------
+Trait Type: 1 of 1
+------------------
+None: Count - 6951, Percentage - 99.74%
+NVMD: Count - 1, Percentage - 0.01%
+Scribble: Count - 1, Percentage - 0.01%
+Nyan Cat: Count - 1, Percentage - 0.01%
+Gobby: Count - 1, Percentage - 0.01%
+Venom: Count - 1, Percentage - 0.01%
+Spidey: Count - 1, Percentage - 0.01%
+Seedphrase: Count - 1, Percentage - 0.01%
+Brett: Count - 1, Percentage - 0.01%
+Andy: Count - 1, Percentage - 0.01%
+Landwolf: Count - 1, Percentage - 0.01%
+Dork Lord: Count - 1, Percentage - 0.01%
+Zogged: Count - 1, Percentage - 0.01%
+$PEPE: Count - 1, Percentage - 0.01%
+Fake Peeper Lisa: Count - 1, Percentage - 0.01%
+Smooth Haired Peeper: Count - 1, Percentage - 0.01%
+Grim Peeper: Count - 1, Percentage - 0.01%
+Lord Kek: Count - 1, Percentage - 0.01%
+Homer Peeper: Count - 1, Percentage - 0.01%
