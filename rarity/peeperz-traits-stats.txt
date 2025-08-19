@@ -1,0 +1,126 @@
+-------------------------------------------------------------
+Rarity Scores for Traits (special at top, then others):
+-------------------------------------------------------------
+1 of 1 - NVMD | rarity score = 6969.00 | frequency = 1 / 6969
+1 of 1 - Scribble | rarity score = 6969.00 | frequency = 1 / 6969
+1 of 1 - Nyan Cat | rarity score = 6969.00 | frequency = 1 / 6969
+1 of 1 - Gobby | rarity score = 6969.00 | frequency = 1 / 6969
+1 of 1 - Venom | rarity score = 6969.00 | frequency = 1 / 6969
+1 of 1 - Spidey | rarity score = 6969.00 | frequency = 1 / 6969
+1 of 1 - Seedphrase | rarity score = 6969.00 | frequency = 1 / 6969
+1 of 1 - Brett | rarity score = 6969.00 | frequency = 1 / 6969
+1 of 1 - Andy | rarity score = 6969.00 | frequency = 1 / 6969
+1 of 1 - Landwolf | rarity score = 6969.00 | frequency = 1 / 6969
+1 of 1 - Dork Lord | rarity score = 6969.00 | frequency = 1 / 6969
+1 of 1 - Zogged | rarity score = 6969.00 | frequency = 1 / 6969
+1 of 1 - $PEPE | rarity score = 6969.00 | frequency = 1 / 6969
+1 of 1 - Fake Peeper Lisa | rarity score = 6969.00 | frequency = 1 / 6969
+1 of 1 - Smooth Haired Peeper | rarity score = 6969.00 | frequency = 1 / 6969
+1 of 1 - Grim Peeper | rarity score = 6969.00 | frequency = 1 / 6969
+1 of 1 - Lord Kek | rarity score = 6969.00 | frequency = 1 / 6969
+1 of 1 - Homer Peeper | rarity score = 6969.00 | frequency = 1 / 6969
+Eyewear - Matrix | rarity score = 6969.00 | frequency = 1 / 6969
+Background - Ethscriptions | rarity score = 6969.00 | frequency = 1 / 6969
+Hoodie - Pepekachu Cloak | rarity score = 6969.00 | frequency = 1 / 6969
+Skin - Pepekachu | rarity score = 696.90 | frequency = 10 / 6969
+Item - Skateboard | rarity score = 331.86 | frequency = 21 / 6969
+Hat - Trump | rarity score = 154.87 | frequency = 45 / 6969
+Hoodie - Red | rarity score = 107.22 | frequency = 65 / 6969
+Skin - Goblin | rarity score = 102.49 | frequency = 68 / 6969
+Background - Matrix | rarity score = 99.56 | frequency = 70 / 6969
+Hoodie - Blankie | rarity score = 94.18 | frequency = 74 / 6969
+Hoodie - Blue | rarity score = 90.51 | frequency = 77 / 6969
+Hoodie - Black | rarity score = 90.51 | frequency = 77 / 6969
+Hoodie - Fashion | rarity score = 82.96 | frequency = 84 / 6969
+Hoodie - Cloak | rarity score = 82.96 | frequency = 84 / 6969
+Hoodie - White | rarity score = 81.03 | frequency = 86 / 6969
+Face Mask - Masked | rarity score = 69.69 | frequency = 100 / 6969
+Clothing - Designer Robe | rarity score = 65.13 | frequency = 107 / 6969
+Clothing - Bow Tie | rarity score = 36.11 | frequency = 193 / 6969
+Hat - Bullish | rarity score = 35.38 | frequency = 197 / 6969
+Clothing - Bumble Bee | rarity score = 35.38 | frequency = 197 / 6969
+Skin - Cigar | rarity score = 34.67 | frequency = 201 / 6969
+Clothing - Pumpkin | rarity score = 33.34 | frequency = 209 / 6969
+Hat - Clown Hair | rarity score = 32.87 | frequency = 212 / 6969
+Hat - Mafia | rarity score = 32.72 | frequency = 213 / 6969
+Skin - Ciggy | rarity score = 32.41 | frequency = 215 / 6969
+Hat - Bandana | rarity score = 32.26 | frequency = 216 / 6969
+Hat - Cozy Bear | rarity score = 31.53 | frequency = 221 / 6969
+Hat - Dark Wizard | rarity score = 31.25 | frequency = 223 / 6969
+Hat - Party Hat | rarity score = 30.84 | frequency = 226 / 6969
+Hat - Sleep Mask | rarity score = 30.70 | frequency = 227 / 6969
+Hat - Exposed Brain | rarity score = 30.70 | frequency = 227 / 6969
+Hat - Rick | rarity score = 30.30 | frequency = 230 / 6969
+Hat - Wendy | rarity score = 29.41 | frequency = 237 / 6969
+Hat - Blue Hat | rarity score = 29.28 | frequency = 238 / 6969
+Hat - Pimp | rarity score = 29.16 | frequency = 239 / 6969
+Hat - Cowboy Hat | rarity score = 29.16 | frequency = 239 / 6969
+Hat - Red Fast Food Cap | rarity score = 28.80 | frequency = 242 / 6969
+Hat - Headphones | rarity score = 28.80 | frequency = 242 / 6969
+Hat - Beanie | rarity score = 28.68 | frequency = 243 / 6969
+Hat - Wizard | rarity score = 28.56 | frequency = 244 / 6969
+Hat - Fedora | rarity score = 28.44 | frequency = 245 / 6969
+Hat - Black Fast Food Cap | rarity score = 28.10 | frequency = 248 / 6969
+Hat - Pumpkin | rarity score = 27.99 | frequency = 249 / 6969
+Hat - Smooth Hair | rarity score = 27.76 | frequency = 251 / 6969
+Skin - Heh Heh Heh | rarity score = 27.65 | frequency = 252 / 6969
+Skin - Ehhh | rarity score = 27.33 | frequency = 255 / 6969
+Hat - Sombrero | rarity score = 27.33 | frequency = 255 / 6969
+Skin - OOO! | rarity score = 27.22 | frequency = 256 / 6969
+Hat - Halo | rarity score = 27.12 | frequency = 257 / 6969
+Hat - Red Cap | rarity score = 26.91 | frequency = 259 / 6969
+Skin - Ergh | rarity score = 26.50 | frequency = 263 / 6969
+Skin - Heyyy! | rarity score = 26.20 | frequency = 266 / 6969
+Skin - Heh Heh | rarity score = 26.00 | frequency = 268 / 6969
+Skin - Snifff | rarity score = 26.00 | frequency = 268 / 6969
+Skin - Dapper | rarity score = 25.91 | frequency = 269 / 6969
+Skin - Eeuuggh! | rarity score = 25.81 | frequency = 270 / 6969
+Clothing - Boner | rarity score = 25.62 | frequency = 272 / 6969
+Skin - Hrmm | rarity score = 25.53 | frequency = 273 / 6969
+Skin - Sniff Sniff | rarity score = 25.43 | frequency = 274 / 6969
+Skin - Hrmph | rarity score = 25.16 | frequency = 277 / 6969
+Skin - HAA! | rarity score = 25.07 | frequency = 278 / 6969
+Skin - Heeeheee | rarity score = 24.80 | frequency = 281 / 6969
+Skin - Nakamoto | rarity score = 24.54 | frequency = 284 / 6969
+Skin - Nyeehee! | rarity score = 24.54 | frequency = 284 / 6969
+Skin - Sniff Ahhh | rarity score = 24.20 | frequency = 288 / 6969
+Item - Joint | rarity score = 24.20 | frequency = 288 / 6969
+Skin - Hey! | rarity score = 24.11 | frequency = 289 / 6969
+Item - Juice | rarity score = 23.95 | frequency = 291 / 6969
+Eyewear - Shades | rarity score = 23.62 | frequency = 295 / 6969
+Clothing - Vampire | rarity score = 23.46 | frequency = 297 / 6969
+Skin - Ayyy LMAO! | rarity score = 23.23 | frequency = 300 / 6969
+Skin - Hemm | rarity score = 23.15 | frequency = 301 / 6969
+Eyewear - Reading Glasses | rarity score = 22.92 | frequency = 304 / 6969
+Item - Thumbs Up | rarity score = 22.77 | frequency = 306 / 6969
+Item - Book | rarity score = 22.55 | frequency = 309 / 6969
+Skin - WAAA | rarity score = 22.55 | frequency = 309 / 6969
+Skin - Hmmm | rarity score = 22.48 | frequency = 310 / 6969
+Item - Guns A'Blazin | rarity score = 21.85 | frequency = 319 / 6969
+Item - Champagne | rarity score = 21.85 | frequency = 319 / 6969
+Item - Cross | rarity score = 21.78 | frequency = 320 / 6969
+Item - Whyyy | rarity score = 21.71 | frequency = 321 / 6969
+Item - Choccy | rarity score = 21.31 | frequency = 327 / 6969
+Item - Scythe | rarity score = 21.05 | frequency = 331 / 6969
+Item - Heart | rarity score = 20.62 | frequency = 338 / 6969
+Skin - AHHH! | rarity score = 20.38 | frequency = 342 / 6969
+Item - Gun | rarity score = 19.97 | frequency = 349 / 6969
+Item - Samba | rarity score = 19.91 | frequency = 350 / 6969
+Item - Bong | rarity score = 19.47 | frequency = 358 / 6969
+Item - Teddy | rarity score = 19.09 | frequency = 365 / 6969
+Item - PePeMeal | rarity score = 18.39 | frequency = 379 / 6969
+Clothing - Black Suit | rarity score = 12.40 | frequency = 562 / 6969
+Clothing - Red Blankie | rarity score = 12.16 | frequency = 573 / 6969
+Clothing - Blue Suit | rarity score = 11.75 | frequency = 593 / 6969
+Clothing - Fast Food | rarity score = 11.28 | frequency = 618 / 6969
+Background - Pale Oyster | rarity score = 9.61 | frequency = 725 / 6969
+Background - Gray | rarity score = 9.55 | frequency = 730 / 6969
+Background - Oxley | rarity score = 9.43 | frequency = 739 / 6969
+Background - Regent Gray | rarity score = 9.23 | frequency = 755 / 6969
+Background - Gurkha | rarity score = 8.96 | frequency = 778 / 6969
+Background - Mamba | rarity score = 8.95 | frequency = 779 / 6969
+Background - Waterloo | rarity score = 8.89 | frequency = 784 / 6969
+Background - Scorpion | rarity score = 8.81 | frequency = 791 / 6969
+Background - Bazaar | rarity score = 8.72 | frequency = 799 / 6969
+Clothing - Black Tee | rarity score = 8.69 | frequency = 802 / 6969
+Clothing - Blue Tee | rarity score = 6.81 | frequency = 1023 / 6969
